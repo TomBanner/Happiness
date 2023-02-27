@@ -193,7 +193,7 @@ Lastly I combined all these graphs into a dashboard where you can see all the re
 .............................................................................
 
 
-You can view my full Tableau file here:
-https://public.tableau.com/views/HappinessProject_16775005306540/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+You can view my Tableau files here:
+https://public.tableau.com/app/profile/tom.banner7232
 
 Enjoy :)
